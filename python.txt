@@ -1,0 +1,8 @@
+Introduction to Python:
+-----------------------
+- Who is the designer of the python language?
+Ans : Guido Van Rossum in 1989
+- First Version of Python?
+Ans : 1.0 was released on 1991
+-
+

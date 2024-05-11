@@ -1,6 +1,7 @@
-x = 8
-r = x % 2
+from numpy import *
 
-if r==0:
-    print("Even")
-    print("Bye")
+arr1 = array([
+    [1,2,3],
+    [4,5,6]
+])
+print(arr1)
